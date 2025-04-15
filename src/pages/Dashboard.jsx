@@ -21,7 +21,7 @@ export default function Dashboard() {
                 </button>
             </div>
             <div className="mt-6">
-                {report ? <pre>{JSON.stringify(report, null, 2)}</pre> : <p>Cargando resumen...</p>}
+                {report ? <pre>{JSON.stringify(report, null, 2)}</pre> : <p>No hay reportes asociados</p>}
             </div>
         </div>
     );
