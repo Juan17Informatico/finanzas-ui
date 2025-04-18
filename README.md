@@ -24,3 +24,6 @@ npm run dev
 - `/categories` - Categorías
 - `/budgets` - Presupuestos
 - `/transactions` - Transacciones
+
+
+### Tecnologias y librerias:
