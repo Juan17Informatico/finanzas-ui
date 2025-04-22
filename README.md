@@ -25,5 +25,11 @@ npm run dev
 - `/budgets` - Presupuestos
 - `/transactions` - Transacciones
 
+### Tecnologias y librerias
 
-### Tecnologias y librerias:
+- TailwindCSS
+- Vite
+- React Router DOM
+- API React Context
+- axios
+- lucide-react
